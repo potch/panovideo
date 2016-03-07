@@ -1,0 +1,25 @@
+{
+  "name": "panovideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "three.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potch/panovideo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potch/panovideo/issues"
+  },
+  "homepage": "https://github.com/potch/panovideo#readme",
+  "dependencies": {
+    "three-vrcontrols": "^1.0.0",
+    "three-vreffect": "^1.0.0",
+    "webvr-boilerplate": "^0.3.8"
+  }
+}
